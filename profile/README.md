@@ -1,4 +1,4 @@
-# .github
+# Bitween
 
 Bitween
 Bitween 🌞 and 🌚
