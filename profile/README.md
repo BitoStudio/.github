@@ -1,4 +1,4 @@
-![image](https://github.com/BitoStudio/.github/images/logo.jpg)
+![image](https://github.com/BitoStudio/.github/blob/main/images/logo.jpg)
   
 # Bitween  
   
